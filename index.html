@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
     <title>Movie Page</title>
-  </head>
-  <body>
+</head>
+<body>
     <header>
-      <form id="form">
-        <input type="text" id="search" class="search" placeholder="Search">
-      </form>
+        <nav>
+            <h1>PopCornTime</h1>
+            <form id="form">
+                <input type="text" id="search" class="search" placeholder="Search" aria-label="Search movies">
+            </form>
+        </nav>
     </header>
 
     <main id="main"></main>
 
+    <button id="load-more" style="display: none;">Load More</button>
+
     <script src="script.js"></script>
-  </body>
+</body>
 </html>
