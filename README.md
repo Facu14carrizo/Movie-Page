@@ -1,4 +1,4 @@
-# Movie Page
+# Movie-Verse
 ![Movie Page Demo](Assets/Movie-Page-Demo.gif)
 
 A simple web page to search and discover movies.
