@@ -1,5 +1,5 @@
 # Movie-Verse
-![Movie Page Demo](Assets/Movie-Page-Demo.gif)
+![Movie Page Demo](Assets/MovieVerse Demo App.gif)
 
 A simple web page to search and discover movies.
 
