@@ -3,6 +3,8 @@
 
 A simple web page to search and discover movies.
 
+## Live Demo [here](https://movie14verse.netlify.app).
+
 ## Features
 
 - Displays a list of popular movies.
